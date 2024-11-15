@@ -9,7 +9,9 @@ EcoDicas é um aplicativo Android desenvolvido em Kotlin que permite aos usuári
 - Campo para título da dica
 - Campo para descrição detalhada
 - Botão "ADICIONAR DICA" para salvar as informações
-  ![Tela de Adição](images/add_tip.png)
+  ![Tela de Adição](![WhatsApp Image 2024-11-14 at 21 03 23](https://github.com/user-attachments/assets/e16823e3-0431-4299-b2fe-089565238d23)
+).
+
 
 ### 2. Pesquisa de Dicas
 - Barra de pesquisa no topo do aplicativo
